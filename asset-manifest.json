@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c97ae8ca.css",
+    "main.js": "/static/js/main.c1e94b4a.js",
+    "static/js/787.86e70ff7.chunk.js": "/static/js/787.86e70ff7.chunk.js",
+    "static/media/neon-bar-circular.png": "/static/media/neon-bar-circular.a4558a8aac1d0b2cbdca.png",
+    "static/media/screencapture-horiseon.PNG": "/static/media/screencapture-horiseon.1d2a40c76f47cc4bc2b9.PNG",
+    "static/media/screencapture-run-buddy.PNG": "/static/media/screencapture-run-buddy.2135ffd1b74ee73902c5.PNG",
+    "static/media/screencapture-cla.PNG": "/static/media/screencapture-cla.c6dbb91ddcf568523c1f.PNG",
+    "static/media/screencapture-superfan.PNG": "/static/media/screencapture-superfan.8c77326c61b66f43d9ea.PNG",
+    "static/media/profile-pic-circle.png": "/static/media/profile-pic-circle.036c816b68cea222a943.png",
+    "static/media/screencapture-eleven-eleven.png": "/static/media/screencapture-eleven-eleven.44678cec007ea3ef4ea2.png",
+    "static/media/screencapture-note-taker.PNG": "/static/media/screencapture-note-taker.28f232dd189c72f2bc2c.PNG",
+    "static/media/turtle-svg-logo-2.svg": "/static/media/turtle-svg-logo-2.219f7789deb85b1a04ecc8b8460a7196.svg",
+    "static/media/turtle-svg-logo-3.svg": "/static/media/turtle-svg-logo-3.d32bbd8187b2cf5e48b568afde94e59b.svg",
+    "static/media/icons8-stack-overflow.svg": "/static/media/icons8-stack-overflow.4c4c96fce47f37dccb2e2f1933e15476.svg",
+    "static/media/icons8-github.svg": "/static/media/icons8-github.989e9f98968e317c5e644202407512de.svg",
+    "static/media/icons8-linkedin.svg": "/static/media/icons8-linkedin.69a4b5c1e9949b98d8aa76ecaa1d5d0a.svg",
+    "index.html": "/index.html",
+    "main.c97ae8ca.css.map": "/static/css/main.c97ae8ca.css.map",
+    "main.c1e94b4a.js.map": "/static/js/main.c1e94b4a.js.map",
+    "787.86e70ff7.chunk.js.map": "/static/js/787.86e70ff7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c97ae8ca.css",
+    "static/js/main.c1e94b4a.js"
+  ]
+}
